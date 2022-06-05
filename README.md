@@ -5,6 +5,14 @@
     <br />
 </h1>
 
+<!-- Preview -->
+<p align="center">
+  <a href="">
+    <img src="./hero.png" width="100%"/>
+  </a>
+</p>
+<br/>
+
 <!-- Getting Started -->
 
 ## 🛠 Getting Started
